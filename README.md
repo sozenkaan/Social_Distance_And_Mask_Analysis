@@ -1,5 +1,4 @@
 # Social_Distance_And_Mask_Analysis
-<<<<<<< HEAD
 
 ## **Setup için gerekli olanlar**
 1.Maske Projesi için;
@@ -17,5 +16,3 @@
 
 2.Sosyal Mesafe Projesi için;
     1.
-=======
->>>>>>> 335bf018478ab4e15df7df1dd12b368482198680
