@@ -17,7 +17,7 @@
 
 2.Sosyal Mesafe Projesi için;
     
-    1.Coco içerisinde yer alan dosyaları projenizin bulunduğu dizine kopyalayın.
+    1.coco_names yolo.cfg dosyaları projenizin bulunduğu dizine kopyalayın.
     2.social_distance.py dosyasını çalıştırın.
 
 
