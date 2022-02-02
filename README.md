@@ -1,6 +1,5 @@
 # Social_Distance_And_Mask_Analysis
-# Social_Distance_And_Mask_Analysis
-<<<<<<< HEAD
+
 
 ## **Setup için gerekli olanlar**
 1.Maske Projesi için;
